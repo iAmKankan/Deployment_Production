@@ -1,16 +1,13 @@
 ## Index
 ![deep](https://user-images.githubusercontent.com/12748752/154262075-ed666dc8-ede8-4bf7-b89e-a98ce19dbdc3.png)
-![light](https://user-images.githubusercontent.com/12748752/154262083-8f345f9a-5638-4efa-b67a-0b94fe76a3eb.png)
 #### Project Setup
 * [Virtual Environment](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/edit/main/Deployment/README.md#virtual-environment)
 * Requirements setup 
-
 #### _Micro-Web frameworks in Python_ 
   * [Falsk](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/flask)
 #### _Cloud Plateforms_
   * [Heroku](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/heroku#readme)
-
-
+![light](https://user-images.githubusercontent.com/12748752/154262083-8f345f9a-5638-4efa-b67a-0b94fe76a3eb.png)
 
 <img src="https://user-images.githubusercontent.com/12748752/154287300-f19161fc-ada0-4c38-8920-422ad688065a.png" weight=40% />
 
