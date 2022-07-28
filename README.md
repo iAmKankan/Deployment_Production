@@ -1,7 +1,7 @@
 ## Index
 ![deep](https://user-images.githubusercontent.com/12748752/154262075-ed666dc8-ede8-4bf7-b89e-a98ce19dbdc3.png)
 #### Project Setup
-* [Virtual Environment](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/edit/main/Deployment/README.md#virtual-environment)
+* [Virtual Environment](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment#readme)
 * Requirements setup 
 #### _Micro-Web frameworks in Python_ 
   * [Falsk](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/flask)
