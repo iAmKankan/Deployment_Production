@@ -7,6 +7,7 @@
   * [Falsk](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/flask)
 #### _Cloud Plateforms_
   * [Heroku](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/heroku#readme)
+
 ![light](https://user-images.githubusercontent.com/12748752/154262083-8f345f9a-5638-4efa-b67a-0b94fe76a3eb.png)
 
 <img src="https://user-images.githubusercontent.com/12748752/154287300-f19161fc-ada0-4c38-8920-422ad688065a.png" weight=40% />
