@@ -8,7 +8,7 @@
 #### _Cloud Plateforms_
   * [Heroku](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/heroku#readme)
   * [AWS](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/tree/main/Deployment/aws) 
-  * [Azure](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/blob/main/Deployment/Azure/README.md)
+  * [Azure](https://github.com/iAmKankan/Data-Gathering-And-Preprocessing/blob/main/Deployment/Azure)
 
 
 ![light](https://user-images.githubusercontent.com/12748752/154262083-8f345f9a-5638-4efa-b67a-0b94fe76a3eb.png)
